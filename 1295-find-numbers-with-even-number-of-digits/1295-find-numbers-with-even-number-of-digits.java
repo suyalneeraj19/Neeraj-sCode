@@ -2,16 +2,16 @@ class Solution {
     public int findNumbers(int[] nums) {
         int c=0;
         for(int x:nums){
-            if(!isOdd(x)){
+            if(even(x)){
                 c++;
             }   
             }
          return c;
         }
     
-     private static boolean isOdd(int n) {
-         int nod=digits(n);
-        return (nod & 1) == 1;
+     private static boolean even(int num) {
+        int numberOfDigits = digits(num);
+        return numberOfDigits % 2 == 0;
     }
 
 private static int digits(int num){
