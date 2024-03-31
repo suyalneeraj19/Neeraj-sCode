@@ -1,5 +1,5 @@
 class Solution {
-   public List<Integer> targetIndices(int[] nums, int target) {
+    public List<Integer> targetIndices(int[] nums, int target) {
         if (nums == null || nums.length == 0) {
             return null;
         }
@@ -44,5 +44,4 @@ class Solution {
         arr[f] = arr[s];
         arr[s] = t;
     }
-    
 }
