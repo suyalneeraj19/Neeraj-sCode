@@ -1,16 +1,10 @@
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        reverseHelper(s, 0, s.size() - 1);
-    }
-
-private:
-    void reverseHelper(vector<char>& s, int left, int right) {
-        if (left < right) {
-            char temp = s[left];
-            s[left] = s[right];
-            s[right] = temp;
-            reverseHelper(s, left + 1, right - 1);
+        for (int i = 0; i < s.size() / 2; i++) {
+            char temp = s[i];
+            s[i] = s[s.size() - 1 - i];
+            s[s.size() - 1 - i] = temp;
         }
     }
 };
