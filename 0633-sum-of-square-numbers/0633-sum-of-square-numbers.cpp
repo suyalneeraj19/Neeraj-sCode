@@ -1,5 +1,3 @@
-
-
 class Solution {
 public:
     bool judgeSquareSum(int c) {
@@ -17,4 +15,3 @@ public:
         return c == 1;
     }
 };
-
