@@ -20,4 +20,3 @@ class Solution:
             max_ = max(max_, unsatis)
         
         return ans + max_
-
