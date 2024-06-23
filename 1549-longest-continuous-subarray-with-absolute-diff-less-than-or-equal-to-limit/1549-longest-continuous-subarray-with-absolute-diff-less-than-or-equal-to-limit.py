@@ -22,4 +22,3 @@ class Solution:
                 j += 1
             ans = max(ans, i - j + 1)
         return ans
-
