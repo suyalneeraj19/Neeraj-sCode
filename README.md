@@ -31,4 +31,8 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
