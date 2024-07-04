@@ -58,4 +58,12 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
