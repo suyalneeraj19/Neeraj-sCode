@@ -86,6 +86,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
 ## Recursion
 |  |
@@ -98,5 +99,6 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
