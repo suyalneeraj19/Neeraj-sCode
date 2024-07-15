@@ -40,12 +40,14 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +110,12 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
