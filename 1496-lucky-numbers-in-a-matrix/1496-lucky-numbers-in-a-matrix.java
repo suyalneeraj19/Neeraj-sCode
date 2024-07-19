@@ -1,25 +1,38 @@
-class Solution {
-    public List<Integer> luckyNumbers (int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
-        ArrayList<Integer> ls = new ArrayList<Integer>();
+import java.util.ArrayList;
+import java.util.List;
 
-         for (int i=0; i<n; i++){
-             int num = Integer.MAX_VALUE;
-             int index = -1;
-            for (int j=0; j<m; j++){
-                if(matrix[i][j] < num){
-                    num = matrix[i][j];
-                    index = j;
+class Solution {
+    public List<Integer> luckyNumbers(int[][] matrix) {
+        List<Integer> res = new ArrayList<>();
+
+        // Iterate through each row of the matrix
+        for (int i = 0; i < matrix.length; i++) {
+            int rowMin = matrix[i][0]; // Initialize the minimum element of the row
+            int colIndex = 0; // To keep track of the column index of the minimum element
+
+            // Finding the smallest element in the ith row
+            for (int j = 1; j < matrix[i].length; j++) {
+                if (matrix[i][j] < rowMin) {
+                    rowMin = matrix[i][j];
+                    colIndex = j; // Update column index
                 }
             }
-             boolean flag = true;
-             for(int row=0; row<n; row++){
-                 if(matrix[row][index] > num ) flag = false;
-             }
-             if(flag) ls.add(num);
+
+            // Checking if rowMin is also the largest element in its column
+            boolean isLuckyNumber = true; // Flag to check if it's a lucky number
+            for (int j = 0; j < matrix.length; j++) {
+                if (matrix[j][colIndex] > rowMin) {
+                    isLuckyNumber = false; // Not a lucky number
+                    break;
+                }
+            }
+
+            // If it's a lucky number, add it to the result list
+            if (isLuckyNumber) {
+                res.add(rowMin);
+            }
         }
 
-        return ls;
+        return res; // Return the list of lucky numbers
     }
 }
