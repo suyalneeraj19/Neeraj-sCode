@@ -52,6 +52,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +114,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 ## Recursion
 |  |
 | ------- |
