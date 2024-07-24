@@ -41,6 +41,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1293-three-consecutive-odds) |
@@ -59,6 +60,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -138,6 +140,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -146,6 +149,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -157,4 +161,8 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2472-build-a-matrix-with-conditions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
