@@ -1,21 +1,21 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0) {
-            return false;
-        }
-        return x == rev(x);
+        if(x <0 )   return false;
+
+        return x==rev(x);
     }
 
-    static int rev(int x) {
-        int rev = 0;
-        while (x != 0) {
-            int d = x % 10;
-            x /= 10;
-            if (rev > Integer.MAX_VALUE / 10 || rev < Integer.MIN_VALUE / 10) {
-                return 0;
-            }
-            rev = rev * 10 + d;
+    static int rev(int x){
+        int digits=(int)(Math.log10(x))+1;
+        return helper(x,digits);
+    }
+
+    static int helper(int n,int digits){
+        if(n%10==n){
+            return n;
         }
-        return rev;
+
+        int rem=n%10;
+        return rem*(int)(Math.pow(10,digits-1))+helper(n/10,digits-1);
     }
 }
