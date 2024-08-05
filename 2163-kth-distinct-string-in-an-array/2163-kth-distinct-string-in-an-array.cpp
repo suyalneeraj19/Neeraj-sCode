@@ -1,28 +1,29 @@
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
-        unordered_map<string, bool> map;
-        int count = 0;
+        unordered_set<string> seen;      // To track all seen strings
+        unordered_set<string> duplicates; // To track duplicate strings
 
-        // Count occurrences of each string
+        // First pass: Identify duplicates
         for (const string& item : arr) {
-            if (map.find(item) != map.end()) {
-                map[item] = false;  // Mark as not distinct
+            if (seen.count(item)) {
+                duplicates.insert(item); // Mark as duplicate
             } else {
-                map[item] = true;   // Mark as distinct
+                seen.insert(item); // Mark as seen
             }
         }
 
-        // Find the k-th distinct string
+        // Second pass: Find the k-th distinct string
+        int count = 0;
         for (const string& item : arr) {
-            if (map[item]) {  // Check if it's distinct
+            if (seen.count(item) && !duplicates.count(item)) { // Check if it's distinct
                 count++;
                 if (count == k) {
-                    return item;
+                    return item; // Return the k-th distinct string
                 }
             }
         }
 
-        return "";  // Return empty string if not found
+        return ""; // Return empty string if not found
     }
 };
