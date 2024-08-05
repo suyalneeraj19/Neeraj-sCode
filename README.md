@@ -128,6 +128,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
 | [1642-water-bottles](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
