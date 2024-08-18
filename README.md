@@ -88,6 +88,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
@@ -156,6 +157,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0009-palindrome-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1642-water-bottles) |
@@ -230,6 +232,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -253,6 +256,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1511-count-number-of-teams) |
