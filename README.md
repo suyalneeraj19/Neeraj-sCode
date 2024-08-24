@@ -160,6 +160,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0009-palindrome-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
@@ -172,6 +173,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
+| [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
