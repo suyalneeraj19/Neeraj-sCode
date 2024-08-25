@@ -13,6 +13,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -198,6 +199,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
@@ -207,6 +209,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -217,6 +220,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
