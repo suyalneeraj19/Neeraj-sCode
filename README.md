@@ -62,6 +62,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0485-max-consecutive-ones) |
@@ -135,6 +136,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
