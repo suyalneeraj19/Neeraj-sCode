@@ -171,6 +171,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2299-merge-nodes-in-between-zeros) |
