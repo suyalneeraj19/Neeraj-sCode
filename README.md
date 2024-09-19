@@ -204,6 +204,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0009-palindrome-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
@@ -221,6 +222,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
+| [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -243,6 +245,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -329,6 +332,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0664-strange-printer) |
@@ -398,4 +402,8 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
