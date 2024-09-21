@@ -14,6 +14,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -419,4 +420,8 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
