@@ -72,6 +72,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0890-lemonade-change) |
@@ -397,6 +398,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
