@@ -86,6 +86,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1293-three-consecutive-odds](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -219,6 +220,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1240-stone-game-ii) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
