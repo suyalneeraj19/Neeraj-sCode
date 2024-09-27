@@ -64,6 +64,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
@@ -219,6 +220,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0009-palindrome-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
