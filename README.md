@@ -105,6 +105,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2132-convert-1d-array-into-2d-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -135,6 +136,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
@@ -312,6 +314,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2472-build-a-matrix-with-conditions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
