@@ -70,6 +70,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -126,6 +127,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0906-walking-robot-simulation) |
@@ -244,6 +246,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0058-length-of-last-word](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
