@@ -77,6 +77,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0724-find-pivot-index](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0906-walking-robot-simulation) |
@@ -195,6 +196,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -278,6 +280,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -397,6 +400,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
