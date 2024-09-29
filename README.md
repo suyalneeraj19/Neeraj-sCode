@@ -128,6 +128,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 | [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
@@ -195,6 +196,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -398,6 +400,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
@@ -472,4 +475,8 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
