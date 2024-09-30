@@ -1,36 +1,27 @@
 class CustomStack {
     private int[] data;
-    private static final int DEFAULT_SIZE = 10;
 
     int ptr = -1;
-
-    // Default constructor
-    public CustomStack() {
-        this(DEFAULT_SIZE);
-    }
-
-    // Parameterized constructor
+    
     public CustomStack(int maxSize) {
         this.data = new int[maxSize];
     }
 
     // Push method to add an element to the stack
     public void push(int x) {
-        if (ptr == data.length - 1) {
-            System.out.println("Stack Overflow");
-            return; // Stack is full
+        if (ptr < data.length - 1) {
+            ptr++;
+            data[ptr] = x;
         }
-        ptr++;
-        data[ptr] = x;
+       
     }
 
     // Pop method to remove and return the top element
     public int pop() {
-        if (ptr == -1) {
-            System.out.println("Stack Underflow");
-            return -1; // Stack is empty
+        if (ptr != -1) {
+            return data[ptr--];
         }
-        return data[ptr--];
+        return -1;
     }
 
     // Increment the bottom k elements by val
