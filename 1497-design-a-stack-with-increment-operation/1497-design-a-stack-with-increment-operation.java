@@ -1,28 +1,43 @@
 class CustomStack {
-    int [] stack;
-    int top = -1;
+    private int[] data;
+    private static final int DEFAULT_SIZE = 10;
 
+    int ptr = -1;
+
+    // Default constructor
+    public CustomStack() {
+        this(DEFAULT_SIZE);
+    }
+
+    // Parameterized constructor
     public CustomStack(int maxSize) {
-        this.stack = new int [maxSize];
+        this.data = new int[maxSize];
     }
-    
+
+    // Push method to add an element to the stack
     public void push(int x) {
-        if (top < this.stack.length - 1) {
-            top ++;
-            this.stack[top] = x;
+        if (ptr == data.length - 1) {
+            System.out.println("Stack Overflow");
+            return; // Stack is full
         }
+        ptr++;
+        data[ptr] = x;
     }
-    
+
+    // Pop method to remove and return the top element
     public int pop() {
-        if (top != -1) {
-            return this.stack[top --];
+        if (ptr == -1) {
+            System.out.println("Stack Underflow");
+            return -1; // Stack is empty
         }
-        return -1;
+        return data[ptr--];
     }
-    
+
+    // Increment the bottom k elements by val
     public void increment(int k, int val) {
-        for (int i = 0; i < Math.min(k, top + 1); i ++) {
-            this.stack[i] += val;
+        // Only increment up to the minimum of k or the actual number of elements in the stack
+        for (int i = 0; i < Math.min(k, ptr + 1); i++) {
+            data[i] += val;
         }
     }
 }
@@ -32,5 +47,5 @@ class CustomStack {
  * CustomStack obj = new CustomStack(maxSize);
  * obj.push(x);
  * int param_2 = obj.pop();
- * obj.increment(k,val);
+ * obj.increment(k, val);
  */
