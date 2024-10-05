@@ -136,6 +136,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 | [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0906-walking-robot-simulation) |
@@ -165,6 +166,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2551-apply-operations-to-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2551-apply-operations-to-an-array) |
@@ -270,6 +272,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
@@ -416,6 +419,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Strongly Connected Component
 |  |
