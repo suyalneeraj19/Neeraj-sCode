@@ -245,6 +245,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0050-powx-n](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
