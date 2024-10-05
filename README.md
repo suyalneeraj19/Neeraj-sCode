@@ -163,6 +163,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -265,6 +266,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0214-shortest-palindrome) |
@@ -395,6 +397,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
