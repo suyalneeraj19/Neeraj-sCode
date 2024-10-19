@@ -245,6 +245,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0906-walking-robot-simulation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -301,6 +302,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -324,6 +326,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0050-powx-n](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
