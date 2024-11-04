@@ -272,6 +272,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0670-maximum-swap) |
+| [0795-k-th-symbol-in-grammar](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1240-stone-game-ii) |
@@ -327,6 +328,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0050-powx-n](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0795-k-th-symbol-in-grammar](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -485,6 +487,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0476-number-complement) |
+| [0795-k-th-symbol-in-grammar](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
