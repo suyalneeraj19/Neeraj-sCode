@@ -131,6 +131,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2727-number-of-senior-citizens](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -212,6 +213,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -497,6 +499,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
