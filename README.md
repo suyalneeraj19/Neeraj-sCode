@@ -273,6 +273,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -570,4 +571,8 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
