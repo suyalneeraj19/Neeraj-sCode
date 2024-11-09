@@ -1,9 +1,15 @@
-public class Solution {
-    public void reverseString(char[] s) {
-        for (int i = 0; i < s.length / 2; i++) {
-            char temp = s[i];
-            s[i] = s[s.length - 1 - i];
-            s[s.length - 1 - i] = temp;
+class Solution {
+    public void reverseString(char[] arr) {
+        
+        int s=0;
+        int e=arr.length-1;
+
+        while(s<e){
+            char temp=arr[s];
+            arr[s]=arr[e];
+            arr[e]=temp;
+            s++;
+            e--;
         }
     }
 }
