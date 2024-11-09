@@ -177,6 +177,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0961-long-pressed-name](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0961-long-pressed-name) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -306,6 +307,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0961-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
