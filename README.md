@@ -67,6 +67,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -248,6 +249,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0898-transpose-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0898-transpose-matrix) |
@@ -398,6 +400,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0921-spiral-matrix-iii) |
