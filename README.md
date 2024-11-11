@@ -106,6 +106,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1646-kth-missing-positive-number) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -201,6 +202,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
