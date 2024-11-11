@@ -132,6 +132,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -201,6 +202,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +235,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1818-maximum-score-from-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -296,6 +299,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -540,6 +544,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
