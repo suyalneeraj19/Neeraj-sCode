@@ -203,6 +203,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1646-kth-missing-positive-number) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
@@ -235,6 +236,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
