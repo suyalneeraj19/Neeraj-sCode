@@ -107,6 +107,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -187,6 +188,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0961-long-pressed-name](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0961-long-pressed-name) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -203,6 +205,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
@@ -372,6 +375,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1197-parsing-a-boolean-expression](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -594,6 +598,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
 |  |
 | ------- |
