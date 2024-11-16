@@ -65,6 +65,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
@@ -146,6 +147,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -414,6 +416,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0059-spiral-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
@@ -533,6 +536,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
