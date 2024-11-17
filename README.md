@@ -86,6 +86,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0921-spiral-matrix-iii) |
@@ -206,6 +207,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -369,6 +371,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -444,6 +447,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -501,6 +505,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Strongly Connected Component
@@ -548,6 +553,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0724-find-pivot-index](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1240-stone-game-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -618,4 +624,8 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
