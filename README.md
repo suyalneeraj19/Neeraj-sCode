@@ -30,6 +30,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -296,6 +297,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
@@ -482,6 +484,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0005-longest-palindromic-substring](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1196-filling-bookcase-shelves) |
