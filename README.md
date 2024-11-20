@@ -306,6 +306,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0593-valid-square](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0670-maximum-swap) |
+| [0728-self-dividing-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1146-greatest-common-divisor-of-strings) |
