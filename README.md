@@ -444,6 +444,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -537,6 +538,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
