@@ -178,6 +178,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -354,6 +355,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -513,6 +515,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Strongly Connected Component
 |  |
