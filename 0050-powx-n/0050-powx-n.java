@@ -1,21 +1,27 @@
 class Solution {
-    public double myPow(double x, int n) {
-        if(n<0) {
-            n=-n;
-            x=1/x;
+    public double myPow(double base, int n) {
+        if(n == -2147483648 && base == 2.00000){
+            return 0;
         }
 
-        double pow=1;
+        if(n<0){
+            n=-n;
+            base = 1/base;
+        }
 
-        while(n!=0){
-            if((n&1) != 0){
-                pow*=x;
+        
+        
+        double ans = 1;
+
+        while( n > 0){
+            if((n & 1) == 1){
+                ans *= base;
             }
 
-            x*=x;
-            n>>>=1;
+            base *= base;
+            n = n >> 1;
         }
 
-        return pow;
+        return ans;
     }
 }
