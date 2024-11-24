@@ -89,6 +89,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0735-asteroid-collision](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0860-design-circular-queue) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -270,6 +271,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -390,6 +392,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -548,6 +551,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0860-design-circular-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
