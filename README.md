@@ -346,6 +346,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0920-uncommon-words-from-two-sentences](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0961-long-pressed-name) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -391,6 +392,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1002-maximum-width-ramp) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1497-design-a-stack-with-increment-operation) |
