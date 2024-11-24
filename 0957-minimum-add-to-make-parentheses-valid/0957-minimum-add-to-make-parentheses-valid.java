@@ -1,27 +1,24 @@
 class Solution {
     public int minAddToMakeValid(String s) {
         Stack<Character> stack = new Stack<>();
-
-        for(char ch : s.toCharArray()){
-
-            if(ch == ')' && !stack.isEmpty() && stack.peek() == '('){
+        
+        for (char ch : s.toCharArray()) {
+            if (ch == '(' || ch == '{' || ch == '[') {
+                stack.push(ch);
+            } else if (!stack.isEmpty() && isMatchingPair(stack.peek(), ch)) {
                 stack.pop();
-                continue;
+            } else {
+                stack.push(ch);
             }
-
-            if(ch == '}' && !stack.isEmpty() && stack.peek() == '{'){
-                stack.pop();
-                continue;
-            }
-
-            if(ch == ']' && !stack.isEmpty() && stack.peek() == '['){
-                stack.pop();
-                continue;
-            }
-
-            stack.push(ch);
         }
-
+        
         return stack.size();
     }
+
+    private boolean isMatchingPair(char open, char close) {
+        return (open == '(' && close == ')') || 
+               (open == '{' && close == '}') || 
+               (open == '[' && close == ']');
+    }    
+    
 }
