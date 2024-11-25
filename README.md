@@ -33,6 +33,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -87,6 +88,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0735-asteroid-collision) |
+| [0787-sliding-puzzle](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0860-design-circular-queue) |
@@ -450,6 +452,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0059-spiral-matrix-ii) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0921-spiral-matrix-iii) |
