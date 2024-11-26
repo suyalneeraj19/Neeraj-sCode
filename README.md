@@ -14,6 +14,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
@@ -31,6 +32,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0787-sliding-puzzle) |
@@ -270,6 +272,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0859-design-circular-deque) |
@@ -421,6 +424,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -436,6 +440,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
