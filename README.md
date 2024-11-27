@@ -22,6 +22,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0386-lexicographical-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -441,6 +442,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -462,6 +464,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -585,6 +588,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
