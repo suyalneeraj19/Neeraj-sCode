@@ -14,6 +14,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -433,6 +434,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -455,6 +457,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -587,6 +590,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
