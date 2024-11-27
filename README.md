@@ -20,6 +20,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
@@ -354,6 +355,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0058-length-of-last-word](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
@@ -438,6 +440,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -458,6 +461,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -605,6 +609,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
