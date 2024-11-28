@@ -145,6 +145,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2035-count-sub-islands](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2089-maximum-matrix-sum) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -344,6 +345,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2645-pass-the-pillow) |
@@ -636,6 +638,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
