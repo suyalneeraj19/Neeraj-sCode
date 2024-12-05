@@ -24,22 +24,22 @@ class Solution {
     static int toNumber(String f, String s, String t){
         StringBuffer ans = new StringBuffer();
 
-        for(int i = 0 ; i < 4 ; i++){
-            int ch1 = Character.getNumericValue(f.charAt(i));
-            int ch2 = Character.getNumericValue(s.charAt(i));
-            int ch3 = Character.getNumericValue(t.charAt(i));
+    for (int i = 0; i < 4; i++) {
+        int ch1 = Character.getNumericValue(f.charAt(i));
+        int ch2 = Character.getNumericValue(s.charAt(i));
+        int ch3 = Character.getNumericValue(t.charAt(i));
 
-            ans.append(Math.min(ch1,Math.min(ch2,ch3)));
-        }
+        ans.append(Math.min(ch1, Math.min(ch2, ch3)));
+    }
 
-        int i = 0;
-        while (i < ans.length() && ans.charAt(i) == '0') {
-            i++;
-        }
-        if (i == ans.length()) {
-            return 0;
-        }
+    // Convert StringBuffer to String and remove leading zeros
+    String resultString = ans.toString().replaceFirst("^0+(?!$)", "");
 
-        return Integer.parseInt(ans.substring(i));
+    // If resultString is empty after removing leading zeros, return 0
+    if (resultString.isEmpty()) {
+        return 0;
+    }
+
+    return Integer.parseInt(resultString);
     }
 }
