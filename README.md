@@ -348,6 +348,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0728-self-dividing-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
+| [1086-divisor-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1240-stone-game-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -564,6 +565,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0664-strange-printer) |
+| [1086-divisor-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1086-divisor-game) |
 | [1196-filling-bookcase-shelves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -650,6 +652,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Game Theory
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1240-stone-game-ii) |
 ## Number Theory
 |  |
@@ -660,6 +663,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
 |  |
