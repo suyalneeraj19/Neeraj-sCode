@@ -4,10 +4,7 @@ class Solution {
         if(k == 1){
             return s;
         }
-        // int m = n/k;
-
-        // if(m == 1)  m =k;
-
+        
         StringBuffer sb = new StringBuffer();
 
         int prev = 0;
@@ -26,8 +23,6 @@ class Solution {
             nextHash += (ch - 'a');
         }
 
-        nextHash %= 26;
-        char ch = (char) (nextHash + 'a');
-        return ch;
+        return (char)( (nextHash% 26) + 'a');
     }
 }
