@@ -360,6 +360,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2645-pass-the-pillow](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3568-find-the-key-of-the-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## String
 |  |
 | ------- |
