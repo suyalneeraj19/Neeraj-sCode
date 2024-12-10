@@ -214,6 +214,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -257,6 +258,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2164-two-best-non-overlapping-events](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
@@ -421,6 +423,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3540-hash-divided-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3540-hash-divided-string) |
@@ -569,6 +572,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1786-count-the-number-of-consistent-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -607,6 +611,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1755-defuse-the-bomb](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Strongly Connected Component
 |  |
