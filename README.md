@@ -168,6 +168,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2551-apply-operations-to-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
@@ -213,6 +214,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -280,6 +282,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2502-sort-the-people](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
@@ -340,6 +343,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2645-pass-the-pillow) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3540-hash-divided-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3540-hash-divided-string) |
 ## Math
@@ -550,6 +554,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
