@@ -37,6 +37,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -492,6 +493,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
