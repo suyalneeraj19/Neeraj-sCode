@@ -174,6 +174,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -262,6 +263,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2164-two-best-non-overlapping-events](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -469,6 +471,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1818-maximum-score-from-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -560,6 +563,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2803-modify-graph-edge-weights) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -612,6 +616,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1511-count-number-of-teams) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -723,6 +728,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -737,6 +743,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1002-maximum-width-ramp](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
 |  |
 | ------- |
