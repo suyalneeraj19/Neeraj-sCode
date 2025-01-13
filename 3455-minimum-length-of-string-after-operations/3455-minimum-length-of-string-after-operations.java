@@ -1,14 +1,13 @@
 class Solution {
     public int minimumLength(String s) {
-        if(s.length() < 2)  return s.length();
         int length = 0;
-        HashMap<Character,Integer> map = new HashMap<>();
+       int [] map = new int[26];
 
        for(int i = 0 ; i < s.length(); i++){
-        map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+            map[s.charAt(i)-'a']++;
        }
 
-        for(int freq : map.values()){
+        for(int freq : map){
             if(freq == 0)   continue;
 
             if(freq % 2 == 0){
