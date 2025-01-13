@@ -222,6 +222,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -434,6 +435,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3540-hash-divided-string) |
 ## Recursion
 |  |
@@ -587,6 +589,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
