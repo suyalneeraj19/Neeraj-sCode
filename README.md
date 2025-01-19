@@ -46,6 +46,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
+| [0407-trapping-rain-water-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0787-sliding-puzzle) |
@@ -94,6 +95,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
@@ -529,6 +531,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0059-spiral-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0870-magic-squares-in-grid) |
@@ -556,6 +559,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0948-sort-an-array) |
