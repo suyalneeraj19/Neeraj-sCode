@@ -55,6 +55,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -145,6 +146,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1755-defuse-the-bomb](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1803-average-waiting-time) |
+| [1876-map-of-highest-peak](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -542,6 +544,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2132-convert-1d-array-into-2d-array) |
