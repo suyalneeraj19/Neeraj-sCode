@@ -31,6 +31,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1396-count-servers-that-communicate](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -52,6 +53,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0787-sliding-puzzle](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -80,6 +82,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2035-count-sub-islands) |
 ## Array
@@ -127,6 +130,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1293-three-consecutive-odds](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -541,6 +545,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0921-spiral-matrix-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -590,6 +595,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
