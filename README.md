@@ -159,6 +159,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2089-maximum-matrix-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -219,6 +220,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1741-sort-array-by-increasing-frequency](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2107-find-unique-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -431,6 +433,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1923-sentence-similarity-iii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -691,6 +694,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0039-combination-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
+| [2107-find-unique-binary-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
