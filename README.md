@@ -395,6 +395,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -716,6 +717,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
