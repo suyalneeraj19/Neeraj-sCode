@@ -395,6 +395,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
@@ -626,6 +627,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [1511-count-number-of-teams](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2164-two-best-non-overlapping-events](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
 |  |
@@ -717,6 +719,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -781,6 +784,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Monotonic Queue
 |  |
 | ------- |
