@@ -400,6 +400,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2645-pass-the-pillow](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3201-distribute-candies-among-children-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3568-find-the-key-of-the-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## String
 |  |
@@ -776,6 +777,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3201-distribute-candies-among-children-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -785,6 +787,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3201-distribute-candies-among-children-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
