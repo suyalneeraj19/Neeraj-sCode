@@ -84,6 +84,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2035-count-sub-islands) |
@@ -427,6 +428,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0920-uncommon-words-from-two-sentences](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0961-long-pressed-name) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1197-parsing-a-boolean-expression) |
