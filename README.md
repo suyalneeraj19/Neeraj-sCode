@@ -65,6 +65,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -125,6 +126,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0948-sort-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1002-maximum-width-ramp) |
+| [1039-find-the-town-judge](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -215,6 +217,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1039-find-the-town-judge](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1256-rank-transform-of-an-array) |
