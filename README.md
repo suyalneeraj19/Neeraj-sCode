@@ -20,6 +20,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0111-minimum-depth-of-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0386-lexicographical-numbers) |
@@ -45,6 +46,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0100-same-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0207-course-schedule](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0407-trapping-rain-water-ii) |
@@ -64,6 +66,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0207-course-schedule) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1325-path-with-maximum-probability) |
@@ -78,6 +81,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
