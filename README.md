@@ -103,6 +103,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0066-plus-one) |
@@ -258,6 +259,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0011-container-with-most-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -493,6 +495,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0726-number-of-atoms) |
@@ -637,6 +640,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
@@ -790,6 +794,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
