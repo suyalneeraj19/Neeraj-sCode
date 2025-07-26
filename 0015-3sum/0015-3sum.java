@@ -1,39 +1,36 @@
 class Solution {
-    public List<List<Integer>> threeSum(int[] arr) {
-    int n = arr.length;
-    List<List<Integer>> ans = new ArrayList<>();
+    public List<List<Integer>> threeSum(int[] A) {
+        int n = A.length;
+        List<List<Integer>> res = new ArrayList<>();
+        Arrays.sort(A);
 
-    Arrays.sort(arr); // Sort the array to optimize the algorithm
+        for(int i = 0 ; i < n && A[i] <= 0; i++){
+            if(i == 0 || A[i] != A[i-1]){
+                solve(res , i , A);
+            }
+        }
+        return res;
+    }
 
-    for (int k = 0; k < n - 2; k++) {
-        if (k > 0 && arr[k] == arr[k - 1]) continue; // Skip duplicates
+    static void solve(List<List<Integer>> res , int i , int [] A){
 
-        int i = k + 1;
-        int j = n - 1;
+        int s = i +1 , e = A.length - 1;
 
-        while (i < j) {
-            int sum = arr[k] + arr[i] + arr[j];
-            if (sum == 0) {
-                List<Integer> subans = new ArrayList<>();
-                subans.add(arr[k]);
-                subans.add(arr[i]);
-                subans.add(arr[j]);
-                ans.add(subans);
+        while(s < e){
+            int sum = A[i] + A[s] + A[e];
 
-                while (i < j && arr[i] == arr[i + 1]) i++; // Skip duplicates
-                while (i < j && arr[j] == arr[j - 1]) j--; // Skip duplicates
+            if(sum < 0){
+                s++;
+            }else if(sum > 0){
+                e--;
+            }else{
+                res.add(Arrays.asList(A[s++] , A[i] , A[e--]));
 
-                i++;
-                j--;
-            } else if (sum < 0) {
-                i++;
-            } else {
-                j--;
+                while(s < e && A[s] == A[s-1]){
+                    s++;
+                }
+
             }
         }
     }
-
-    return ans;
-}
-
 }
