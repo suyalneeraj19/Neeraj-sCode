@@ -96,6 +96,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0037-sudoku-solver) |
@@ -253,6 +254,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0344-reverse-string) |
@@ -295,6 +297,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0719-find-k-th-smallest-pair-distance) |
