@@ -96,6 +96,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0036-valid-sudoku) |
@@ -254,6 +255,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
@@ -321,6 +323,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0890-lemonade-change) |
