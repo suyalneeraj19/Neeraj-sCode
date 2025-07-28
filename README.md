@@ -216,6 +216,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0432-all-oone-data-structure) |
 | [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
@@ -435,6 +436,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0257-binary-tree-paths](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0564-find-the-closest-palindrome) |
@@ -673,6 +675,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1755-defuse-the-bomb) |
