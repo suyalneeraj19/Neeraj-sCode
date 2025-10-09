@@ -207,6 +207,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [3429-special-array-i](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -388,6 +389,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3540-hash-divided-string](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3540-hash-divided-string) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -744,6 +746,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3427-special-array-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
 | ------- |
