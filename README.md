@@ -49,6 +49,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0207-course-schedule](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0733-flood-fill) |
@@ -111,6 +112,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0485-max-consecutive-ones) |
@@ -653,6 +655,7 @@ The language that will be used in this repo will be java,c++,c,python & more as 
 | [0241-different-ways-to-add-parentheses](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/0664-strange-printer) |
 | [1086-divisor-game](https://github.com/suyalneeraj19/Neeraj-sCode/tree/master/1086-divisor-game) |
